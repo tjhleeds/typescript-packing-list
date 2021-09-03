@@ -6,6 +6,7 @@
     "parcel": "^2.0.0-rc.0"
   },
   "scripts": {
+    "build": "parcel build",
     "serve": "parcel index.html"
   }
 }
